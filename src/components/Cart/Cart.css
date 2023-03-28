@@ -1,0 +1,7 @@
+.cart {
+   background: rgba(255, 153, 0, 0.3);
+   padding: 2rem 1rem;
+   position: sticky;
+   top: 0;
+   height: 100vh;
+}
